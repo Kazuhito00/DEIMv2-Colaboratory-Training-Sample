@@ -1,5 +1,5 @@
 # DEIMv2-Colaboratory-Training-Sample
-<img src="https://github.com/user-attachments/assets/36bb310e-452f-4fbf-9626-98512632253d" width="60%"><br>
+<img src="https://github.com/user-attachments/assets/deff5380-6e5e-4b8d-9827-820d665dcf58" width="60%"><br>
 
 [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプルです。<br>
 データセットは[Kazuhito00/YOLOX-Colaboratory-Training-Sample](https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample)のものを使用しています。
