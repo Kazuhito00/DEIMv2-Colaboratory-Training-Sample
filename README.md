@@ -1,0 +1,2 @@
+# DEIMv2-Colaboratory-Training-Sample
+DEIMv2をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプル
